@@ -1,5 +1,9 @@
 This is a code sample from a Roblox project
 
+## Demo
+
+https://github.com/user-attachments/assets/ab788895-80bb-43b3-b336-8f483ff4b935
+
 ## Summary
 
 This code sample showcases the core grid architecture and dynamic targeting system for **Cards of Chaos**, a multiplayer last man standing game played on a destructible 9x9 board. Together, these modules bridge the underlying data structures with complex player inputs and workspace rendering.
